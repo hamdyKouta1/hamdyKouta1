@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @hamdyKouta1
+- 👀 I’m interested in programming website and mobiles app...
+- 🌱 I’m currently learning front end development...
+- 📫 How to reach me hamdyhkouta@gmail.com ...
+
+<!---
+hamdyKouta1/hamdyKouta1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
